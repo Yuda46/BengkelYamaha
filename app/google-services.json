@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "632460610539",
+    "firebase_url": "https://bengkel-yamaha-eeec6.firebaseio.com",
+    "project_id": "bengkel-yamaha-eeec6",
+    "storage_bucket": "bengkel-yamaha-eeec6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632460610539:android:bafcf621ea2c78e8",
+        "android_client_info": {
+          "package_name": "com.bengkelyamahaterdekat.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632460610539-itfv6a7chmbjslgi35uf2999uf9gda5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bengkelyamahaterdekat.android",
+            "certificate_hash": "ba94299907eb953bdbc0ee174b6b240d492c18cf"
+          }
+        },
+        {
+          "client_id": "632460610539-3bstg9kv06o712ob7cljrl2c3e4hnk7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHVJS4GsXOVEt0w4mIzIlQgwXpdoSbs28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632460610539-3bstg9kv06o712ob7cljrl2c3e4hnk7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632460610539:android:e7905a1ea8ea5446",
+        "android_client_info": {
+          "package_name": "com.example.yuda.bengkelyamaha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632460610539-3m8bgthe2ui7gcbdb78u23o1eultgi2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yuda.bengkelyamaha",
+            "certificate_hash": "ba94299907eb953bdbc0ee174b6b240d492c18cf"
+          }
+        },
+        {
+          "client_id": "632460610539-3bstg9kv06o712ob7cljrl2c3e4hnk7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHVJS4GsXOVEt0w4mIzIlQgwXpdoSbs28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632460610539-3bstg9kv06o712ob7cljrl2c3e4hnk7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
